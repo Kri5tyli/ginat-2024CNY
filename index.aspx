@@ -727,7 +727,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
 <section class="u-clearfix u-section-7 u-section-7-1" id="sec-c305-2" style="margin-top: 30px;">
     <div class="u-clearfix u-sheet u-sheet-1">
       <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="./金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour_files/icon.png" alt="" data-image-width="156" data-image-height="192">
+      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt="" data-image-width="156" data-image-height="192">
       <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
       <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
       <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-2"></div>
