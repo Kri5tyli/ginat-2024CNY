@@ -340,43 +340,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       </a>
     </div>
   </section>
-  <section class="u-clearfix u-section-5" id="sec-4bfb">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
-        data-image-width="156" data-image-height="192">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
-      <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-2"></div>
-      <h5 class="u-text u-text-white u-text-3">6</h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-4">贈全程領隊．司機．導遊小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-5">華航直飛 金色夢幻 奧捷10日</h3>
-      <h3
-        class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-custom-font u-text u-text-custom-color-2 u-text-default u-text-6">
-        <span class="u-text-custom-color-1" style="font-size: 2.5rem;">123,900</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-7">▸​三宮－熊布朗宮．布拉格城堡．薩爾茲城堡(含上下纜車)
-        <br>
-        ▸雙遊船－伏爾塔瓦河遊船．國王湖遊船
-        <br>
-        ▸特色體驗－布拉格天文鐘塔．古老鹽礦之旅
-        <br>
-        ▸旅宿安排－湖區飯店2晚．五星飯店維也納2晚＋布拉格3晚&nbsp;<br>
-      </h3>
-      <a href="https://www.gianttour.com.tw//TripIntroduction.aspx?TripNo=T20230911000003&Date=2024/02/06&type=中華航空公司&numb=AAECI1040206AC"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-2 u-hover-custom-color-1 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon u-icon-1">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
-
+  
   <section class="u-clearfix u-section-7" id="sec-c305">
     <div class="u-clearfix u-sheet u-sheet-1">
       <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
@@ -929,41 +893,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       }
     }
   </style>
-  <section class="u-align-center u-clearfix u-section-13" id="sec-acb8-2">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <div class="u-border-1 u-border-custom-color-7 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
-        data-image-width="156" data-image-height="192">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2/​​8</h5>
-      <h3
-        class="u-align-left u-custom-font u-text u-text-custom-color-3 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-3">
-        兩人同行．早鳥第二人折6千再贈全程小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-3 u-text-4">南非 克魯格野性呼喚12日</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-5">
-        ▸豐富生態－齊齊卡馬國家公園．克魯格探索之旅．科斯坦伯斯植物園．海豹島遊船．企鵝保護區．鴕鳥園
-        <br>
-        ▸絕色美景－桌山纜車．好望角雙軌纜車．摩沙灣．剛果鐘乳石洞．潟湖遊船．布萊德峽
-        <br>
-        ▸經典旅宿－五星太陽城皇宮酒店
-        <br>
-      </h3>
-      <h3 class="u-custom-font u-text u-text-custom-color-3 u-text-default u-text-6">
-        <span style="font-size: 2.5rem;">176,900</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction_new.aspx?TripNo=T20230914000012&Date=2024/02/08&type=SQ&numb=AAFSQ1240208SA"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-3 u-hover-custom-color-4 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon u-icon-1">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
+
   <section class="u-align-center u-clearfix u-image u-section-14" id="4" data-image-width="150" data-image-height="150">
     <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-sheet-1">
       <h3 class="u-align-left u-custom-font u-text u-text-custom-color-8 u-text-1">遊輪 cruise ship</h3>
@@ -1039,39 +969,6 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
           </a>
       </div>
   </section> -->
-  <section class="u-clearfix u-section-17" id="sec-f987">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <div class="u-border-1 u-border-custom-color-8 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
-        data-image-width="156" data-image-height="192">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2/​​​​3<br>
-        2/10
-      </h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-3">早鳥折3千．再贈全程遊輪服務費及領隊小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-4">歌詩達托斯卡納『金色波斯灣～阿聯酋．卡達．阿曼』10日</h3>
-      <h3 class="u-custom-font u-text u-text-default-xl u-text-palette-1-base u-text-5">
-        <span style="font-size: 2.5rem;">148,900</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20230719000001"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-8 u-hover-palette-1-light-1 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸​經典地標－杜拜哈里發塔．杜拜之框．阿布達比大清真寺
-        <br>
-        ▸食色雙饗－阿布達比羅浮宮＆皇宮午宴．亞特蘭提斯＆七星帆船豪華饗宴．伊斯蘭藝術博物館．皇家歌劇院
-        <br>
-        ▸特色體驗－棕櫚島輕軌電車＆全新觀景台．沙漠吉普車衝沙＋BBQ之夜．阿巴拉水上木船&nbsp;<br>
-      </h3>
-    </div>
-  </section>
   <section class="u-clearfix u-section-18" id="sec-689a">
     <div class="u-clearfix u-sheet u-sheet-1">
       <div class="u-border-1 u-border-custom-color-8 u-expanded-width u-line u-line-horizontal u-line-1"></div>
@@ -1106,37 +1003,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       </a>
     </div>
   </section>
-  <section class="u-clearfix u-section-19" id="sec-5f24-1">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <div class="u-border-1 u-border-custom-color-8 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
-        data-image-width="156" data-image-height="192">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2/​​​​6</h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-3">兩人同行早鳥折2萬．再贈全程遊輪服務費及領隊小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-4">太陽公主遊輪『地中海 愛琴海 古城奇跡 夢幻三島』16日</h3>
-      <h3 class="u-custom-font u-text u-text-default u-text-palette-1-base u-text-5">
-        <span style="font-size: 2.5rem;">246,000</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸2024全新旗艦．入住豪華陽台艙
-        <br>
-        ▸巴塞隆納．蜜月仙境．西西里島．聖托里尼(騎驢＆景觀纜車＆伊亞酒莊)
-        <br>
-        ▸雅典衛城+博物館．龐貝古城．羅馬．梵諦岡．西斯汀禮拜堂．Designer Outlet
-      </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20231020000004&Date=2024/02/06&type=SQ&numb=AARSQ1640206IT"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-8 u-hover-palette-1-light-1 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
+
 <style type="text/css">
   #sec-5f24-1.u-section-19 .u-btn-1 {
     margin-top: 30px;
@@ -1183,40 +1050,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       </a>
     </div>
   </section>
-  <section class="u-clearfix u-section-20" id="sec-e611">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <div class="u-border-1 u-border-custom-color-8 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
-        data-image-width="156" data-image-height="192">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-align-center u-text u-text-default u-text-white u-text-2">2/​​​​8<br>
-      </h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-3">早鳥第二人折2萬．再贈全程遊輪服務費及領隊小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-4">奇寶追夢號『勇闖德瑞克海峽．奢遊南極經典』17日</h3>
-      <h3 class="u-custom-font u-text u-text-default u-text-palette-1-base u-text-5">
-        <span style="font-size: 2.5rem;">689,000</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸​全程入住陽台套房Veranda Suite．享管家式服務
-        <br>
-        ▸星級美食．每日Regiis Ova魚子醬及精選酒品無限供應
-        <br>
-        ▸阿根廷高卓古農莊一日遊．布宜諾艾利斯市區觀光．探戈舞晚餐秀
-        <br>
-        ▸極地級PC6抗冰等級．專家團隨行導覽．配備24艘橡皮艇及2艘六人座自費潛水艇<br>
-      </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction_new.aspx?TripNo=T20230116000002&amp;Date=2024/02/08&amp;type=&amp;numb=GIRTK1740208AR"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-8 u-hover-palette-1-light-1 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
+
   <section class="u-clearfix u-section-21" id="sec-2b96">
     <div class="u-clearfix u-sheet u-sheet-1">
       <div class="u-border-1 u-border-custom-color-8 u-expanded-width u-line u-line-horizontal u-line-1"></div>
@@ -1254,42 +1088,6 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
   <section class="u-align-center u-clearfix u-image u-section-22" id="5" data-image-width="150" data-image-height="150">
     <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-sm u-sheet-1">
       <h3 class="u-align-left u-custom-font u-text u-text-custom-color-2 u-text-1">美洲 America</h3>
-    </div>
-  </section>
-  <section class="u-align-center u-clearfix u-section-23" id="sec-e6c2-1">
-    <div class="u-clearfix u-sheet u-sheet-1">
-      <img class="u-image u-image-default u-image-1" src="images/2024newyear-2.png" alt="" data-image-width="156"
-        data-image-height="271">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
-      <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-1"></div>
-      <h5 class="u-text u-text-white u-text-3">4.8.10</h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-9 u-text-4">早鳥折3千．再贈全程小費</h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-10 u-text-5">黃刀鎮+洛磯雙堡 冬戀冰境 TEEPEE極光 10日</h3>
-      <h3 class="u-custom-font u-text u-text-custom-color-11 u-text-default u-text-6">
-        <span style="font-size: 2.5rem;">186,900</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-7">▸​黃刀鎮住宿3晚Ｘ極光專車．TEEPEE帳篷．極光村極光之旅
-        <br>
-        ▸露易絲湖滑雪度假村－景觀纜車．雪上飛碟
-        <br>
-        ▸夢幻冬境－優鶴國家公園．班夫國家公園
-        <br>
-        ▸雙堡飯店－費爾蒙露易絲湖＆費爾蒙班夫溫泉城堡飯店
-        <br>
-        ▸在地好物－冰酒酒莊．McArthurGlen名牌暢貨中心&nbsp;<br>
-      </h3>
-      <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20230628000017"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-10 u-hover-custom-color-11 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon u-icon-1">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
     </div>
   </section>
   <section class="u-clearfix u-section-24" id="sec-e8de-1">
@@ -1670,78 +1468,8 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       </a>
     </div>
   </section>
-  <section class="u-align-center u-clearfix u-section-29">
-    <div class="u-clearfix u-sheet u-sheet-1 u-sheet-1-custom">
-      <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-image-1" src="images/2024newyear-2.png" alt="" data-image-width="156"
-        data-image-height="271">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
-      <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-1"></div>
-      <h5 class="u-text u-text-white u-text-3">7
-      </h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-4-dark-2 u-text-5 u-text-5-custom">斯里蘭卡 五晚五星 珍珠之戀雅拉
-        高山海濱雙火車10日
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸5晚五星飯店．山海雙鐵之旅．傳統服飾莎麗
-        <br>
-        ▸五大世界遺產．雅拉動物獵奇．皇家植物園．香料園．傳統舞蹈秀．馬渡河遊船
-        <br>
-        ▸新春賀歲送導遊領隊司機小費(價值120美元)
-        <br>
-        ▸每團前10名報名繳訂，再享早鳥優惠3000元
-      </h3>
-      <h3 class="u-custom-font u-text u-text-default u-text-palette-4-dark-2 u-text-7">
-        <span style="font-size: 2.5rem;">92,900</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20231005000007&Date=2024/02/07&type=SQ&numb=ANYSQ1040207CM"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-4-dark-2 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon u-icon-1">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
-  <section class="u-align-center u-clearfix u-section-29" id="sec-5e44-1">
-    <div class="u-clearfix u-sheet u-sheet-1 u-sheet-1-custom">
-      <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
-      <img class="u-image u-image-default u-image-1" src="images/2024newyear-2.png" alt="" data-image-width="156"
-        data-image-height="271">
-      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
-      <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
-      <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-1"></div>
-      <h5 class="u-text u-text-white u-text-3">6
-      </h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-4-dark-2 u-text-5 u-text-5-custom">山中傳奇尼泊爾 幸福國度不丹
-        雙寶經典9日
-      </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸幸福國度不丹5晚，尼泊爾首都2晚五星
-        <br>
-        ▸新春賀歲送導遊領隊司機小費(價值108美元)
-        <br>
-        ▸每團前10名報名繳訂，再享早鳥優惠3000元
-      </h3>
-      <h3 class="u-custom-font u-text u-text-default u-text-palette-4-dark-2 u-text-7">
-        <span style="font-size: 2.5rem;">132,800</span>
-        <span style="font-size: 1.125rem;">起含稅</span>
-      </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20231005000006&Date=2024/02/06&type=CX&numb=ANYCX0940206BT"
-        class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-hover-palette-4-base u-palette-4-dark-2 u-radius-14 u-btn-1"
-        target="_blank"><span class="u-icon u-icon-1">
-          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
-            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
-c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
-c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
-            </path>
-          </svg></span>&nbsp;go
-      </a>
-    </div>
-  </section>
+ 
+ 
   <style type="text/css">
     @media (max-width: 576px) {
       #sec-5e44-1 {
@@ -1771,7 +1499,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
         ▸每團前10名報名繳訂，再享早鳥優惠3000元
       </h3>
       <h3 class="u-custom-font u-text u-text-default u-text-palette-4-dark-2 u-text-7">
-        <span style="font-size: 2.5rem;">127,800</span>
+        <span style="font-size: 2.5rem;">122,800</span>
         <span style="font-size: 1.125rem;">起含稅</span>
       </h3>
       <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20231005000008&Date=2024/02/07&type=CX&numb=AAYCX0940207BT"
@@ -1803,7 +1531,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
         ▸每團前10名報名繳訂，再享早鳥優惠3000元
       </h3>
       <h3 class="u-custom-font u-text u-text-default u-text-palette-4-dark-2 u-text-7">
-        <span style="font-size: 2.5rem;">68,900</span>
+        <span style="font-size: 2.5rem;">65,900</span>
         <span style="font-size: 1.125rem;">起含稅</span>
       </h3>
       <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20231005000002"
@@ -1836,7 +1564,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
         ▸每團前10名報名繳訂，再享早鳥優惠3000元
       </h3>
       <h3 class="u-custom-font u-text u-text-default u-text-palette-4-dark-2 u-text-7">
-        <span style="font-size: 2.5rem;">93,900</span>
+        <span style="font-size: 2.5rem;">90,900</span>
         <span style="font-size: 1.125rem;">起含稅</span>
       </h3>
       <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20231005000004"
