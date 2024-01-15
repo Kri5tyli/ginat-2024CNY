@@ -1059,7 +1059,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
       <h5 class="u-align-center u-text u-text-default u-text-white u-text-2">2/​​​​10<br>
       </h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-3">早鳥第二人折2萬．再贈全程遊輪服務費及領隊小費</h3>
+      <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-3">早鳥第二人折1萬．再贈全程遊輪服務費及領隊小費</h3>
       <h3 class="u-align-left u-custom-font u-text u-text-palette-1-base u-text-4">奇寶探險號『勇闖德瑞克海峽．奢遊南極經典』17日</h3>
       <h3 class="u-custom-font u-text u-text-default u-text-palette-1-base u-text-5">
         <span style="font-size: 2.5rem;">689,000</span>
